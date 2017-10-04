@@ -1,0 +1,15 @@
+Package: dryqc
+Type: Package
+Title: dryqc
+Version: 0.1.0
+Date: 2017-1004
+Author: J.Arsenault
+Maintainer: Who to complain to <JARS3N@GMAIL.COM>
+Description: package of packages...
+URL: https://github.com/JARS3N/dryqc
+Imports:
+        dplyr,
+        tidyr,
+        readxl
+License: none
+LazyData: TRUE
